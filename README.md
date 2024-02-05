@@ -1,5 +1,5 @@
 # Big_challenges
-# Классификатор стилей живописи
+# Classification of painting styles
 
 Модель классификации изображений 11 стилей живописи.
 
